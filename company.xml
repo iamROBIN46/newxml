@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="company.xsl"?>
+<Company xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:noNamespaceSchemaLocation="company.xsd">
+	
+	<Employee>
+		<ID>1</ID>
+		<Name>Robin Baby</Name>
+		<Gender>Male</Gender>
+		<AGE>35</AGE>
+		<Salary>90000</Salary>
+		<Email_ID>robinbaby@gmail.com</Email_ID>
+		<Mobile>7624802607</Mobile>
+		<Designation>Tester</Designation>
+		<Promotion>Developer</Promotion>
+	</Employee>
+	
+	<Employee>
+		<ID>2</ID>
+		<Name>Shah Rukh Khan</Name>
+		<Gender>Male</Gender>
+		<AGE>52</AGE>
+		<Salary>55000</Salary>
+		<Email_ID>srk007@gmail.com</Email_ID>
+		<Mobile>7564218689</Mobile>
+		<Designation>Team leader</Designation>
+		<Promotion>Associate Project Manager</Promotion>
+	</Employee>
+	
+	<Employee>
+		<ID>3</ID>
+		<Name>Hrithik Roshan</Name>
+		<Gender>Male</Gender>
+		<AGE>44</AGE>
+		<Salary>80000</Salary>
+		<Email_ID>hrx2020@gmail.com</Email_ID>
+		<Mobile>3647165852</Mobile>
+		<Designation>coder</Designation>
+		<Promotion>Team Leader</Promotion>
+	</Employee>
+	
+	<Employee>
+		<ID>4</ID>
+		<Name>Jaqueline</Name>
+		<Gender>Female</Gender>
+		<AGE>28</AGE>
+		<Salary>150000</Salary>
+		<Email_ID>jaqs1919@gmail.com</Email_ID>
+		<Mobile>8327614958</Mobile>
+		<Designation>junior coder</Designation>
+		<Promotion>Developer</Promotion>
+	</Employee>
+	
+	<Employee>
+		<ID>5</ID>
+		<Name>Kangana</Name>
+		<Gender>Female</Gender>
+		<AGE>32</AGE>
+		<Salary>100000</Salary>
+		<Email_ID>kangren123@gmail.com</Email_ID>
+		<Mobile>9165482371</Mobile>
+		<Designation>senior coder</Designation>
+		<Promotion>Developer</Promotion>
+	</Employee>
+
+	
+</Company>
